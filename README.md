@@ -36,6 +36,9 @@ The project uses two datasets (`loan_dataset.xlsx` and `loan_dataset26.xlsx`) wi
 ## 📊 Power BI Dashboard
 
 The dashboard offers rich insights into customer demographics and behavior.
+![dashboard loan prediction ](https://github.com/user-attachments/assets/fba4d412-e57b-4dd3-a16d-409968958b84)
+
+
 
 ### ✅ Key Insights:
 
